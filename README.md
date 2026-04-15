@@ -31,11 +31,12 @@ hands-on research.
 ---
 
 ## 📌 Current Goals
-- [ ] Complete eJPT certification
 - [x] First HTB machine pwned — Cap ✅
-- [ ] Solve 50 HTB machines (1/50)
+- [x] Second HTB machine pwned — Vaccine ✅  
+- [x] Third HTB machine pwned — Fawn ✅
+- [ ] Solve 50 HTB machines (3/50)
+- [ ] Complete Security+ certification
 - [ ] First Bug Bounty report
-- [ ] Build 10 public security tools
 
 ---
 
