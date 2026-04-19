@@ -34,7 +34,7 @@ hands-on research.
 - [x] First HTB machine pwned — Cap ✅
 - [x] Second HTB machine pwned — Vaccine ✅  
 - [x] Third HTB machine pwned — Fawn ✅
-- [ ] Solve 50 HTB machines (5/50)
+- [x] Solve 50 HTB machines (6/50)
 - [ ] Complete Security+ certification
 - [ ] First Bug Bounty report
 
