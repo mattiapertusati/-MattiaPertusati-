@@ -1,17 +1,18 @@
 # Hi, I'm Mattia 👋
 
-Cybersecurity student focused on offensive security, 
-penetration testing, and red team methodologies.
-Currently building my skills through CTFs, labs, and 
-hands-on research.
+Security professional transitioning into Blue Team and 
+Cloud Security. Offensive security background with 9+ 
+HTB machines pwned — I use that attacker mindset to 
+build better defenses.
 
 ---
 
 ## 🎯 Focus Areas
-- Web Application Pentesting
-- Network Penetration Testing  
-- Active Directory Attacks
-- Malware Analysis (beginner)
+- Blue Team Operations & Threat Detection
+- Cloud Security (AWS / Azure)
+- Active Directory Security & Hardening
+- SIEM & Log Analysis
+- Incident Response
 
 ---
 
@@ -22,6 +23,9 @@ hands-on research.
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 
 ---
 
